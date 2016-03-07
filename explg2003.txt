@@ -1,0 +1,10 @@
+KB3077657,MS15-077,https://technet.microsoft.com/library/security/MS15-077
+KB3045171,MS15-051,https://technet.microsoft.com/library/security/MS15-051
+KB3087039,MS15-097,https://technet.microsoft.com/library/security/MS15-097
+KB3000061,MS14-058,https://technet.microsoft.com/library/security/MS14-058
+KB2829361,MS13-046,https://technet.microsoft.com/library/security/MS13-046
+KB2850851,MS13-053,https://technet.microsoft.com/library/security/MS13-053
+KB2707511,MS12-042,https://technet.microsoft.com/library/security/MS12-042
+KB970483,MS09-020,https://technet.microsoft.com/library/security/MS09-020
+KB3124280,MS16-016,https://technet.microsoft.com/library/security/MS16-016
+KB2124261,MS10-065,https://technet.microsoft.com/library/security/MS10-065
