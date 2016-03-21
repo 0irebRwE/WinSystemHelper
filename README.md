@@ -1,6 +1,10 @@
 # WinSystemHelper
 A tool that checks and downloads scripts that will aid with privilege escalation on a Windows system. 
 
+    Usage:
+    1. Copy WinSysHelper.bat, explt2003.txt and expgt2003.txt onto Windows servers
+    2. Run WinSysHelper.bat in command line
+
     For Windows 2003:
     
     KB2360937,MS10-084,https://technet.microsoft.com/library/security/ms10-084
