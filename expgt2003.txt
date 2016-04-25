@@ -9,3 +9,6 @@ KB970483,MS09-020,https://technet.microsoft.com/library/security/MS09-020,https:
 KB3124280,MS16-016,https://technet.microsoft.com/library/security/MS16-016,https://github.com/brianwrf/WinSystemHelper/raw/master/MS16-016-KB3124280-CVE-2016-0051.rar
 KB2124261,MS10-065,https://technet.microsoft.com/library/security/MS10-065,https://github.com/brianwrf/WinSystemHelper/raw/master/MS10-065-KB2124261-KB2271195-CVE-2010-1899-IIS7.rar
 KB2271195,MS10-065,https://technet.microsoft.com/library/security/MS10-065,https://github.com/brianwrf/WinSystemHelper/raw/master/MS10-065-KB2124261-KB2271195-CVE-2010-1899-IIS7.rar
+KB3139914,MS16-032,https://technet.microsoft.com/library/security/MS16-032,https://raw.githubusercontent.com/FuzzySecurity/PowerShell-Suite/master/Invoke-MS16-032.ps1
+KB3140745,MS16-032,https://technet.microsoft.com/library/security/MS16-032,https://raw.githubusercontent.com/FuzzySecurity/PowerShell-Suite/master/Invoke-MS16-032.ps1
+KB3140768,MS16-032,https://technet.microsoft.com/library/security/MS16-032,https://raw.githubusercontent.com/FuzzySecurity/PowerShell-Suite/master/Invoke-MS16-032.ps1
