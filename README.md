@@ -39,3 +39,6 @@ For Windows 2003 above:
     KB970483,MS09-020,https://technet.microsoft.com/library/security/MS09-020
     KB3124280,MS16-016,https://technet.microsoft.com/library/security/MS16-016
     KB2124261,MS10-065,https://technet.microsoft.com/library/security/MS10-065
+    KB3139914,MS16-032,https://technet.microsoft.com/library/security/MS16-032
+    KB3140745,MS16-032,https://technet.microsoft.com/library/security/MS16-032
+    KB3140768,MS16-032,https://technet.microsoft.com/library/security/MS16-032
